@@ -1,7 +1,7 @@
 {
 	"name": "pipeline1",
 	"properties": {
-		"description": "GITCONFIG",
+		"description": "GIT_CONFIG",
 		"activities": [
 			{
 				"name": "Copy data1",
